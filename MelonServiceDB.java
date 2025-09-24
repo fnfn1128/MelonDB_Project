@@ -24,7 +24,7 @@ public class MelonServiceDB extends JFrame {
 
       {"박수지","suji1004","010-3256-4354","X"},
 
-};
+	};
 
 
 Object [] columnNames= {"이름","아이디","핸드폰 번호", "이용권 구매 여부"};
@@ -53,3 +53,4 @@ public static void main(String[] args) {
 	}
 
 }
+
